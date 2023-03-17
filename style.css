@@ -1,0 +1,23 @@
+#contato iframe
+{
+    width: 100%;
+}
+.viagem {
+    border: 1px solid cornsilk;
+}
+.viagem img{
+    width: 100%;
+}
+ .headfilme {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+ }
+ .headfilme i
+ {
+    float:right;
+ }
+ .filmeText span {
+    color: rgb(255, 244, 92);
+ }
